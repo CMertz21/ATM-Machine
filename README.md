@@ -1,5 +1,5 @@
 # ATM-Machine
-CLass Project
+
 
 This project involves writing a program that implements an ATM machine. The interface to the
 program should be a Java GUI.
